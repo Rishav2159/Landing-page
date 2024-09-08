@@ -21,10 +21,6 @@ Welcome to the **Landing Page** project! This is a simple yet elegant landing pa
 - Smooth scrolling navigation
 - Call-to-action buttons for engagement
 
-## Demo
-
-You can view a live demo of the landing page [here](https://your-demo-link.com).
-
 ## Installation
 
 To get started with this project, follow these steps:
@@ -33,12 +29,12 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/landing-page.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
     bash
     cd landing-page
 
-3.Open the index.html file in your web browser:
+3. Open the index.html file in your web browser:
     Simply double-click on index.html or open it using a web browser.
 
 Usage
@@ -57,6 +53,7 @@ Feel free to customize the following elements:
 Technologies Used
 
     HTML5
+    CSS
     CSS3
     Responsive Design Techniques
     (Optional) JavaScript for enhanced interactivity
